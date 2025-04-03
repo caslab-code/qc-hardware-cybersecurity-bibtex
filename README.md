@@ -4,5 +4,4 @@ This repository contains a BibTeX bibliography file with references to research 
 
 # Contact
 
-To have papers considered for addition to this list, please create a pull request or or e-mail the author at: <firstname>.<lastname>@northwestern.edu
-
+To have papers considered for addition to this list, please create a pull request or or e-mail the author at: jakub.szefer@northwestern.edu
